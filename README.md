@@ -1,4 +1,4 @@
-# CapstoneAnnthea
+# Capstone Annthea
 Our team came up with the idea of developing an acne problem machine
 learning app aer realizing the challenges associated with acne detection. Many of us have
 personally struggled with acne and have found the process of identifying eective
