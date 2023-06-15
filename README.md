@@ -1,4 +1,5 @@
 dataset and trained model : https://drive.google.com/drive/folders/1GnUVBFxK3deNHSi7Opa-WEGndq29Iis5
+model in tflite : https://drive.google.com/file/d/1tKT-H9WmLyfP1eHkCGkhhe6k_IkNrpi8/view?usp=sharing
 # Capstone Annthea
 Our team came up with the idea of developing an acne problem machine
 learning app aer realizing the challenges associated with acne detection. Many of us have
