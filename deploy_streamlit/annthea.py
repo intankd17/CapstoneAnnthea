@@ -54,7 +54,7 @@ def get_recommendations(acne_level, top_n=1):
     return top_recommendations
 
 # Streamlit app
-st.title("Deteksi dan Rekomendasi Pengobatan Jerawat")
+st.title("ANNTHEA \\ Deteksi dan Rekomendasi Pengobatan Jerawat")
 
 # Upload image
 uploaded_image = st.file_uploader("Unggah gambar jerawat")
